@@ -1,0 +1,18 @@
+.contact_button{
+    cursor: pointer;
+    font-size: var(--font-18-size);
+    line-height: var(--font-18-line-height);
+    font-family: var(--typography-font-family-500);
+    letter-spacing: var(--letter-spacing-small);
+    height: 48px;
+    min-width: 130px;
+    padding: 0 var(--spacing-padding-05);
+    background-color: #0055ff;
+    border: 2px solid var(--color-action-blue);
+    font-family: var(--typography-font-family-600);
+    color:white;
+    margin-top: 5px;
+}
+.contact_button:hover {
+    background-color: #003fbc;
+  }

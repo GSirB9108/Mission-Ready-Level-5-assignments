@@ -1,0 +1,9 @@
+.driverdetailbar{
+    background-repeat: no-repeat, repeat;
+}
+.driverdetailwhole{
+    text-align: left;
+}
+.add_driver{
+    display:flex;
+}

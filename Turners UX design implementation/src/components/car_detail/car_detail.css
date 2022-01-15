@@ -1,0 +1,10 @@
+.cardetailbar{
+    background-repeat: no-repeat, repeat;
+    
+}
+.cardetailwhole{
+    text-align: left;
+}
+.add_car {
+    display:flex;
+}

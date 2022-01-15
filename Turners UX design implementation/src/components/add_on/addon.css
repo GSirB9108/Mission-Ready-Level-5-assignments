@@ -1,0 +1,7 @@
+.addcard{
+    display:flex;
+    justify-content: center;
+}
+.addon_texts{
+    text-align: left;
+}

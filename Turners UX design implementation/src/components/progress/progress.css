@@ -1,0 +1,13 @@
+
+.insure_box {
+    margin-left: 50px;
+    padding-bottom: 350px;
+    background-repeat: no-repeat, repeat;
+}
+.prog_text {
+    width:25%;
+}
+
+.top2bar{
+    display:flex;
+}
